@@ -1,0 +1,12 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}.abc{
+    height: 100px;
+    background-color:blueviolet;
+}
+.abc p{
+    background-color: brown;
+    border: 2px solid black;
+}
